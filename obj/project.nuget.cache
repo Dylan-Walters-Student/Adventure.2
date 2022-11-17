@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r+FCEPMrk7L7VDGVaAbSbm43wNdaCcZKgbKhPlMOIOvzdRth9xhzGfU4scjkqsi6XUzNmFFymtVTz4UqYyKJlQ==",
+  "dgSpecHash": "Tb2kS0ZOa3TJjmK6eRuisC4GsTTCRGbQjh39TwuqEBV8iOCVLM9ZadCeer40z7AJBCOduFKZY3ROWgcxrVGC2w==",
   "success": true,
-  "projectFilePath": "/workspaces/Csharp-Skeleton/Csharp.csproj",
+  "projectFilePath": "/workspaces/Adventure.2/Csharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

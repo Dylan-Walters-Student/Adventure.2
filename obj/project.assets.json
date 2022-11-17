@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Csharp-Skeleton/Csharp.csproj",
+      "projectUniqueName": "/workspaces/Adventure.2/Csharp.csproj",
       "projectName": "Csharp",
-      "projectPath": "/workspaces/Csharp-Skeleton/Csharp.csproj",
+      "projectPath": "/workspaces/Adventure.2/Csharp.csproj",
       "packagesPath": "/home/vscode/.nuget/packages/",
-      "outputPath": "/workspaces/Csharp-Skeleton/obj/",
+      "outputPath": "/workspaces/Adventure.2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vscode/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }
