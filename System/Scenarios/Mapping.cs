@@ -1,5 +1,6 @@
 using System;
 public class Mapping
+// 2d arrays are set up as [rows, Columns]
 {    public char[,] Array = new char[9, 9] {
         { '■', '■', '■', '■', '■', '■', '■', '■', '■' },
         { '■', '■', '■', '■', '■', '■', '■', '■', '■' },
